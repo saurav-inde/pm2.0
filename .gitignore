@@ -1,0 +1,9 @@
+/.git
+/.idea
+/_pycache_
+/build
+/dist
+
+
+
+data.db
